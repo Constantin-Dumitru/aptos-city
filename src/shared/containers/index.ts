@@ -1,4 +1,5 @@
-import React from "react";
 import SimpleContainer from "./SimpleContainer";
+import CyberStroke from "./CyberStroke";
+import Hexagon from "./Hexagon";
 
-export {SimpleContainer}
+export { SimpleContainer, CyberStroke, Hexagon };

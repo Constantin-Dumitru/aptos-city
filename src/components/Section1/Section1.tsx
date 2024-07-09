@@ -9,7 +9,7 @@ const SectionOne: FC = () => (
         sx={{
             background: `linear-gradient(45deg, #010101D0 30%, rgba(0,0,0,0) 100%), url(${Behind})`,
             width: '100vw',
-            height: '100vh',
+            height: 'calc(100vh + 20px)',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             // backgroundRepeat: 'no-repeat',
