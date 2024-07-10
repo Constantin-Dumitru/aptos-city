@@ -42,7 +42,7 @@ const SectionTwo: FC = () => (
           color: "#384043",
         }}
       >
-        PROFESII
+        PROFESSIONS
       </Typography>
       <Grid container sx={{
         width: '100%'

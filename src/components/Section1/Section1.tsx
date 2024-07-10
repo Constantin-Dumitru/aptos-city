@@ -14,7 +14,11 @@ const SectionOne: FC = () => (
             backgroundPosition: 'center',
             // backgroundRepeat: 'no-repeat',
             alignItems: 'center',
-            justifyContent: 'center'
+            justifyContent: 'center',
+            padding: {
+                xs: '0 32px',
+                md: 'unset'
+            }
         }}
     >
         <NavBar />
